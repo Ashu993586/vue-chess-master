@@ -43,7 +43,7 @@ Todo
 
 ## Run App
     
-    git clone https://github.com/gustaYo/vue-chess.git
+    git clone https://github.com/Ashu993586/vue-chess-master
 
     cd vue-chess/server
     yarn install
